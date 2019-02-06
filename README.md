@@ -6,4 +6,5 @@ After training the RNN it can generate completely new dialogues, many cases not 
 
 Steps involved:
 1. Prepare input
-2
+2. Helper functions for preprocessing and batching
+3. Define the RNN
